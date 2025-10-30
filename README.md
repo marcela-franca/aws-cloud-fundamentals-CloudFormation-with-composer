@@ -6,7 +6,7 @@ O conteúdo inclui instruções passo a passo sobre:
 - Como configurar e acessar o serviço CloudFormation na AWS;
 - Como criar e gerenciar stacks usando templates YAML ou JSON;
 - Como integrar o CloudFormation a um projeto com Composer;
-- E um exemplo prático de projeto para desligar automaticamente as VMs fora do horário comercial, reduzindo custos de operação em ambientes de desenvolvimento e testes.
+- E um exemplo prático de projeto;
   
 ## Objetivo
 Demonstrar, na prática, como criar e gerenciar infraestrutura na AWS usando templates CloudFormation, implementando recursos de forma declarativa e reproduzível, seguindo as melhores práticas aprendidas no decorrer do curso. 
